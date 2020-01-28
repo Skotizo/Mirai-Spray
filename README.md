@@ -5,7 +5,7 @@ Scans typical Mirai loader/hostlists format with Hydra
 ```bash
 apt update -y && apt upgrade -y
 apt install tor
-https://github.com/Skotizo/Mirai-Spray
+git clone https://github.com/Skotizo/Mirai-Spray
 cd Mirai-spray
 g++ main.cpp -o spray
 ./spray
