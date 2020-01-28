@@ -1,5 +1,6 @@
 # Mirai-Spray
 Scans typical Mirai loader/hostlists format with Hydra
+This can be used to check if a list of hosts are able to be connected to 
 
 ## INSTALLATION
 ```bash
