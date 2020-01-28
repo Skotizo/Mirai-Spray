@@ -40,5 +40,8 @@ unset HYDRA_PROXY
 
 ```
 
+## Ethics
+This project is a proof of concept and should not be ran against systems you do not own. Im not responsible for anything you do with this code. Have fun !
+
 ## CREDITS
 [HYDRA](https://github.com/vanhauser-thc/thc-hydra)
