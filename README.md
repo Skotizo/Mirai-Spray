@@ -10,6 +10,9 @@ cd Mirai-spray
 g++ main.cpp -o spray
 ./spray
 ```
+
+![a](Screenshot_10.png)
+
 ## USAGE
 ```bash
 ./spray host.txt telnet
@@ -20,6 +23,8 @@ OR
 ./spray host.txt ssh
 
 ```
+### Output 
+![a](redact.png)
 ## HOST FILE FORMAT
 IP PORT USERNAME PASSWORD
 ### To convert a Mirai loader with commas use : 
