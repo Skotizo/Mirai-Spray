@@ -15,12 +15,12 @@ g++ main.cpp -o spray
 
 ## USAGE
 ```bash
-./spray host.txt telnet
+./spray host.txt telnet > crackedTelnet.txt
 
 ```
 OR
 ```bash
-./spray host.txt ssh
+./spray host.txt ssh > crackedSsh.txt
 
 ```
 ### Output 
