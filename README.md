@@ -1,5 +1,5 @@
 # Mirai-Spray
-Scans typical mirai loader/hostlists format with Hydra
+Scans typical Mirai loader/hostlists format with Hydra
 
 ## INSTALLATION
 ```bash
@@ -22,7 +22,7 @@ OR
 ```
 ## HOST FILE FORMAT
 IP PORT USERNAME PASSWORD
-### To convert a Mirai loader with commas use 
+### To convert a Mirai loader with commas use : 
 ```bash
 sed 's/:/ /g' MiraiLoader.txt > hosts.txt
 ```
@@ -40,7 +40,7 @@ unset HYDRA_PROXY
 
 ```
 
-## Ethics
+## ETHICS
 This project is a proof of concept and should not be ran against systems you do not own. Im not responsible for anything you do with this code. Have fun !
 
 ## CREDITS
